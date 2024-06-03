@@ -3,7 +3,7 @@
   **ID:** CT12IOT62  
   **Domain:** INTERNET OF THINGS  
   **Duration:** 20th May 2024 to 20th July 2024  
-  **Mentor** 
+  **Mentor:** SRAVANI GOUNI
 
   
 ## Overview of the Project
